@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finally finished school for the summer!"
-date:   2016-04-24 16:07:35 -0300
+date:   2016-04-26 16:07:35 -0300
 categories: Update
 author: Evan
 ---
