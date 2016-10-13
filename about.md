@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is my About page. So here is some stuff about me you may or may not know already.  
-I have been a computer technician for over 7 years but I got bored and decided I wanted to learn how to code. I made a website called CompactGamer, a site all about small form factor gaming computers, but turns out I hate writing. Now i'm just trying to figure out how to make the next best fart app and become a godzillionaire.
+This is my About page. My name is Evan and I am learning to be a software developer. Currently attending my second year at NSCC in Halifax enrolled in the General Programming stream. I have always had an interest in computers as long as I can remember. For the last 7 years I have been a computer technician, but looking for a change in career I decided to start learning the software side of things. Hoping to eventually get a job as a Junior Developer to really dive in to the field and apply all of the skills I have learned along the way.
 
 I will list things of interest in no particular order:
 
