@@ -14,4 +14,4 @@ During those 2 weeks I trained harder than I ever have to make sure I was ready 
 
 All my hard work paid off and at the weigh in for the competition I managed to be 82.2kg! Right on target. After hydrating and warming up the competition began. First was squat, then bench, then finally deadlift. It was a very long day and I was absolutely exhausted but I managed to squat 303lbs on my 3rd attempt, benchpress 187lbs on my third attempt and deadlift 374lbs on my third attempt. These were all personal records for me and I placed 3rd in my weight class.
 
-If you want to see some videos of my lifts you can check them out on my instagram page: [@turkdangerfield](https://www.instagram.com/turkdangerfield/)
+I have some videos of the competition on my instagram page: [@turkdangerfield](https://www.instagram.com/turkdangerfield/)
