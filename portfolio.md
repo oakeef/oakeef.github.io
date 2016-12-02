@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Here are a few of the things I have been working on:
+### Here are a few of the things I have been working on:
 
 - [Android Fragments Application](https://github.com/oakeef/Android-Fragments)
 	This was my latest Android application project. It was designed to show off fragments and responsive design, there are 3 fragments and depending on the screen density of the device it shows either a list view for phones or a grid view for tablets. The app is a list of animals and when you pick one it shows the picture of the animal in a new fragment. This app was quite a learning experience for me and you can read about it [here]({% post_url 2016-11-29-Android-App-Disaster %}).
