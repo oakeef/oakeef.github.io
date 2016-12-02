@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is my About page. My name is Evan and I am learning to be a software developer. Currently attending my second year at NSCC in Halifax enrolled in the General Programming stream. I have always had an interest in computers as long as I can remember. For the last 7 years I have been a computer technician, but looking for a change in career I decided to start learning the software side of things. Hoping to get a job as a Junior Developer to really dive in to the field and apply all of the skills I have learned along the way.
+My name is Evan and I am a software developer. Currently attending my second year at NSCC in the general programming concentration. I am also learning at Treehouse on the side. You can check out my profile [here](https://teamtreehouse.com/oakeef). I love learning and am always excited to learn new things. I have always had an interest in computers and for the last 7 years I have been a computer technician, so learning the software side of things was the logical next step for me. I am currently looking for new and exciting oppourtunities as a developer. I am always interested in networking and meeting new people that can teach me something.
 
 ### I have experience points in:
 
