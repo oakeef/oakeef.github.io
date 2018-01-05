@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "News and Movie Review Site"
+date:   2018-01-05 16:06:35 -0300
+categories: News
+author: Evan
+---
+
+It's been a long time since I wrote anything here and a lot has happened in the mean time. first of all the big news is that I got a job in the industry! I started an 18 week work term with a local company called Norex on May 1st 2017. I worked on a few small projects and learned a lot of things I didn't get a chance to learn in school. I gained a lot of knowledge in PHP and Git specifically. The company rebranded part way through my work term to [Code and Mortar](https://codeandmortar.com) and they decide to hire me on as a full time developer! I've been working there ever since then and I really enjoy it. It's a big change from all the jobs I've had in the past.
+
+The next big thing i'd like to mention is my new movie review site [movies.stuffwithevan.com](http://movies.stuffwithevan.com)! I figured I might as well start writing what I think about movies since I watch so many. I started out with just a google sheet of all the movies I watched in a year and whether I liked them or not. This turned out to be fun to do so this year I decided to take it to the next level. So if you like movies you can go check it out and see what I think of movies I've been watching.
+
+I built the site in Jekyll and hosted it on Github Pages, just like this blog site. You can check out the source code [here](https://github.com/oakeef/).

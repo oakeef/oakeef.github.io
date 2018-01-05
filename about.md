@@ -4,20 +4,15 @@ title: About
 permalink: /about/
 ---
 
-My name is Evan and I am a software developer. Currently I am attending my second year at NSCC in the general programming concentration, also learning at Treehouse on the side. You can check out my Treehouse profile [here](https://teamtreehouse.com/oakeef). I love learning and am always excited to learn new things. I have always had an interest in computers and for the last 7 years I have been a computer technician, so learning the software side of things was the logical next step for me. I am very interested in Web Development because it is such a fast paced and constantly changing field. The Web is one of the most important things in todays world, so working with that is so exciting to me. I am currently looking for new and exciting oppourtunities as a developer and I'm always interested in networking and meeting new people that can teach me something.
+My name is Evan and I am a Web Developer. Currently working with a local firm called [Code and Mortar](https://codeandmortar.com/). I like building stuff and I am super interested in sorting data. I like to collect data and then try to find meaningful and interesting ways to sort it. I'm a big movie fan and I spend a lot of time watching movies. So much time in fact that I decided to make a review site just to keep track of the movies I watch and how I feel about them. You can check it out at [movies.stuffwithevan.com](http://movies.stuffwithevan.com/).
 
-### I have experience points in:
+My other hobbies include looking for great deals on weird cars on autotrader, playing video games (poorly), talking about those video games on a weekly podcast called [Hopped Up Gaming East](https://www.hipcast.com/podcast/HJfyJb), and finally powerlifting.
 
-- Python
-- Java
-- C++
-- Android Development
-- PHP
-- Wordpress
-- Laravel
-- Git
+### My Experience Points
 
-### I will now list things of interest in no particular order:
+{% include skills.html %}
+
+### I will now list things of interest in no particular order
 
 1. Great hair
 2. Powerlifter
